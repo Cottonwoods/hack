@@ -1,0 +1,43 @@
+html body {
+  background-color: #000000;
+  color: #00FF00;
+  display: inline;
+  white-space: pre-wrap;
+  font-size: 62.5%;
+  height: 100% !important;
+  font-weight: 400 !important;
+  font-smooth: never !important;
+  font-family: 'Inconsolata' !important;
+  -webkit-font-smoothing: none !important;
+  text-shadow: 0px 0px 1px rgba(0,0,0,0) !important;
+}
+
+body span {
+  font-size: 1.6em;
+}
+
+#intro {
+  float: left;
+  font-size: 1.6em;
+  width: 100%;
+}
+
+#input {
+  float: left;
+}
+
+#caret {
+  float: left;
+  font-size: 1.6em;
+}
+
+#history {
+  float: left;
+  font-size: 1.6em;
+  width: 100%;
+}
+
+#cursor {
+  float: left;
+  font-size: 1.6em;
+}
